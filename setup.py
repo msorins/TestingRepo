@@ -10,8 +10,12 @@ base = None
 if sys.platform == "win32":
     base = "Win32GUI"
 
-setup(  name = "MirceaSorinSebastian",
-        version = "0.2",
+
+
+setup(  name = "MirceaSorin01",
+        version = "1.1",
+
+
         description = "Computational Logic Aplication",
         options = {"build_exe": build_exe_options},
         executables = [Executable("MirceaSorin.py", base="console")])
