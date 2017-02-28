@@ -20,3 +20,6 @@ setup(  name = "MirceaSorin01",
         options = {"build_exe": build_exe_options},
         executables = [Executable("MirceaSorin.py", base="console")])
 another nice Change , yaaas
+sdakmdadlasjdladas
+sdada
+saa
