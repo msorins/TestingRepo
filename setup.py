@@ -19,3 +19,4 @@ setup(  name = "MirceaSorin01",
         description = "Computational Logic Aplication",
         options = {"build_exe": build_exe_options},
         executables = [Executable("MirceaSorin.py", base="console")])
+another nice Change , yaaas
